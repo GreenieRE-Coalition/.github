@@ -13,28 +13,10 @@ decarbonization.
 ## 🎯 Mission
 
 We provide innovative reinsurance solutions that clear financial bottlenecks
-blocking the clean‑energy transition. With a $200M capital influx from
-Coalition for Green Capital, GreenieRE aims to catalyze over **$30 billion in
+blocking the clean‑energy transition GreenieRE aims to catalyze over **$30 billion in
 private investments**—helping deliver **$5.2 billion in direct project value**,
 reduce up to **2.3 million metric tons of CO₂**, and support underserved
 communities with insurance-backed clean energy access.
-
----
-
-## 🚀 Impact Highlights
-
-- Enables **affordable financing for clean energy projects serving low‑income
-  and disadvantaged communities**, dedicating at least 50% of insured value to
-  underserved markets
-- Built through collaboration with
-  [Energetic Capital](https://www.energeticcapital.com/),
-  [kWh Analytics](https://kwhanalytics.com/), [InnSure](https://innsure.org/),
-  and supported by the
-  [Coalition for Green Capital](https://coalitionforgreencapital.com/)
-- As seen in
-  [Yahoo News](https://www.yahoo.com/news/nonprofit-makes-massive-200-million-111516028.html)
-  and
-  [Coverager](https://coverager.com/greeniere-launches-to-provide-commercial-insurance-for-clean-energy-projects)
 
 ---
 
@@ -42,7 +24,7 @@ communities with insurance-backed clean energy access.
 
 Although our repositories are private, here’s what we work on:
 
-- **Risk pricing models** for solar and storage portfolios
+- **Risk pricing models** 
 - **APIs and internal tools** that streamline policy issuance and partner
   onboarding
 - **Data infrastructure** to ingest, clean, and normalize performance and
